@@ -2,7 +2,7 @@ Hi There!
 
 Joined Github **0** years ago.
 
-Since then I pushed **224** commits, submitted **103** pull requests, reviewed **1** pull requests,received **0** stars across **7** personal projects and contributed to **3** public repositories.
+Since then I pushed **224** commits, submitted **105** pull requests, reviewed **1** pull requests,received **0** stars across **7** personal projects and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
